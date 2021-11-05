@@ -1,4 +1,3 @@
-
 function getLocal() {
   return JSON.parse(localStorage.getItem('todo'));
 }
